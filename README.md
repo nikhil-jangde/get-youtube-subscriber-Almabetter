@@ -68,4 +68,9 @@ Visit to see the working on Youtube : https://youtu.be/DbYel2CUmCs
 
 Web Deployment :  https://get-youtube-subscribers-almabetter-backend.vercel.app/
 
+## Team Memebers
 
+- Nikhil Jangde
+- Parth Ojha
+
+  
